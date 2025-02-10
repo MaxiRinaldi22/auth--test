@@ -13,7 +13,7 @@ export default function HouseDetails() {
         className="w-full h-64 object-cover"
       />
       <CardContent className="p-6">
-        <h2 className="text-2xl font-semibold mb-4 text-gray-800">Casa de Eventos "El Ensueño"</h2>
+        <h2 className="text-2xl font-semibold mb-4 text-gray-800">Casa de Eventos </h2>
         <p className="text-gray-600 mb-4">
           Espacio perfecto para tus celebraciones y eventos especiales. Un lugar único donde crear recuerdos
           inolvidables.
